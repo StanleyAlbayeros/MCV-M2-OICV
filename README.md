@@ -4,3 +4,4 @@
 - Aditya Sangram Singh Rana
 - Antoni Rodriguez Villegas
 - Òscar Lorente Corominas
+- Vernon Stanley Albayeros Duarte
